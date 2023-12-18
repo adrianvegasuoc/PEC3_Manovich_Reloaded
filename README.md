@@ -33,7 +33,8 @@ La hibridación de medios se distingue de **la multimedia** y la **remediación*
 <div style="text-align: center;">
 <img src="https://cdn1.epicgames.com/aster/offer/HEAVYRAIN1-2560x1440-def4bcca48fac743496bc5c1158a4f86.jpg" alt="Heavy Rain Trailer" width="600" /></div>
 
-<https://www.youtube.com/watch?v=YVYiJ3VSp60>
+**[Trailer Heavy Rain](https://www.youtube.com/watch?v=YVYiJ3VSp60)**
+
 
 **Heavy Rain** es un videojuego catalogado como aventura gráfica, desarrollado por **Quantic Dream** y lanzado en Europa el **26 de febrero de 2010** para Playstation 3 en el que podemos manejar diferentes personajes y cambiar el rumbo de la historia en base a la toma de decisiones. El propio coproductor David Cage de Quantic Dream denomia el videojuego como una **"película interactiva"** y es que esta obra utiliza recursos propios del **lenguaje cinematográifo** mientras permite que el jugador controle el curso de la historia. 
 
@@ -55,8 +56,11 @@ Por último considero que Heavy Rain no representa la creación de un **nuevo le
 
 ## Re-descubriendo la hibridación: Caso Baldur's gate
 
-<a href="https://www.youtube.com/watch?v=dHXi4aAILRc"><div style="text-align: center;">
-<img src="https://1.bp.blogspot.com/-BW1IkSFV4O0/X7z9UXCoKsI/AAAAAAABMnM/CpNC4SwBLF89OaLRNvIzq_WMxD_hIx8nACLcBGAsYHQ/s1000/Baldur%2527s-Gate-III.jpg" alt="Baldur's Gate 3 Trailer" width="600" /></div></a>
+<div style="text-align: center;">
+<img src="https://1.bp.blogspot.com/-BW1IkSFV4O0/X7z9UXCoKsI/AAAAAAABMnM/CpNC4SwBLF89OaLRNvIzq_WMxD_hIx8nACLcBGAsYHQ/s1000/Baldur%2527s-Gate-III.jpg" alt="Baldur's Gate 3 Trailer" width="600" /></div>
+
+**[Trailer Baldur's Gate](https://www.youtube.com/watch?v=dHXi4aAILRc)**
+
 
 Baldur's Gate es una **saga de videojuegos de rol** desarrollados por BioWare en sus inicios y por Larian Studios en la actualidad y que cuenta con un total de trece juegos disponibles en las principales plataformas de videojuegos y PC. El juego está ambientado en los Reinos Olvidados, dentro del universo Dungeons & Dragons (en español: Dragones y mazmorras) y es todo un referente del género RPG (Videojuego de Rol). El primer título se lanzó en 1998 y ha cosechado muchos éxitos a lo largo de su historia a nivel de ventas y reconocimientos, donde sin ir más lejos destaca que su última entrega ha sido galardonada como **"Game of the year 2023(GOTY)"**.
 
