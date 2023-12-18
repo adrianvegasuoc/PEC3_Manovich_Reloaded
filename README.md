@@ -30,8 +30,10 @@ La hibridación de medios se distingue de **la multimedia** y la **remediación*
 
 ### Re-descubriendo la hibridación: Caso Heavy Rain
 
-<a href="https://www.youtube.com/watch?v=YVYiJ3VSp60"><div style="text-align: center;">
-<img src="https://cdn1.epicgames.com/aster/offer/HEAVYRAIN1-2560x1440-def4bcca48fac743496bc5c1158a4f86.jpg" alt="Heavy Rain Trailer" width="600" /></div></a>
+<div style="text-align: center;">
+<img src="https://cdn1.epicgames.com/aster/offer/HEAVYRAIN1-2560x1440-def4bcca48fac743496bc5c1158a4f86.jpg" alt="Heavy Rain Trailer" width="600" /></div>
+
+<https://www.youtube.com/watch?v=YVYiJ3VSp60>
 
 **Heavy Rain** es un videojuego catalogado como aventura gráfica, desarrollado por **Quantic Dream** y lanzado en Europa el **26 de febrero de 2010** para Playstation 3 en el que podemos manejar diferentes personajes y cambiar el rumbo de la historia en base a la toma de decisiones. El propio coproductor David Cage de Quantic Dream denomia el videojuego como una **"película interactiva"** y es que esta obra utiliza recursos propios del **lenguaje cinematográifo** mientras permite que el jugador controle el curso de la historia. 
 
@@ -42,7 +44,8 @@ Si analizamos este videojuego desde la perspectiva de Manovich, podemos identifi
 <div style="text-align: center;">
 <img src="https://www.quanticdream.com/img/uploads/media/section_25/23cafdf8bf25ae79163d754678d73e27.jpeg" alt="Heavy Rain Screenshot" width="600" /></div>
 
-En su libro El software toma el mando, Lev Manovich afirma que "En vez de intentar dividir los productos de medios de la cultura del software, que son extremamente diversos, en un pequeño grupo de categorías (como los «medios»), podemos pensar en cada combinación concreta de un subgrupo específico de todas las técnicas existentes como una «especie de medios» única. Qué duda cabe, una aplicación de software o un proyecto/producto no son tan solo una remezcla de técnicas ya existentes, sino que también pueden introducir alguna(s) nueva(s), que luego pueden reaparecer en otras aplicaciones/productos." (Manovich, 2013)
+En su libro El software toma el mando, Lev Manovich afirma que :
+>"En vez de intentar dividir los productos de medios de la cultura del software, que son extremamente diversos, en un pequeño grupo de categorías (como los «medios»), podemos pensar en cada combinación concreta de un subgrupo específico de todas las técnicas existentes como una «especie de medios» única. Qué duda cabe, una aplicación de software o un proyecto/producto no son tan solo una remezcla de técnicas ya existentes, sino que también pueden introducir alguna(s) nueva(s), que luego pueden reaparecer en otras aplicaciones/productos." (Manovich, 2013)
 
 Teniendo en cuenta el texto anterior, podemos considerar Heavy Rain como una nueva **"especie de medios" única** en la que se **evoluciona** el género de aventura gráfica combinando la jugabilidad del género con elementos propios del cine. Y es que antes de Heavy Rain ya había juegos con un mágnífico guión o una banda sonora capaz de crear la atmósfera donde se desarrolla la historia, ya había juegos en los que la toma de decisiones marcaban el devenir de la historia, sin embargo es la combinación de todos estos elementos lo que consiguió que este título se desmarcara del resto.
 
@@ -59,22 +62,20 @@ Baldur's Gate es una **saga de videojuegos de rol** desarrollados por BioWare en
 
 Esta saga además, es desde el punto de vista de Manovich sin duda un claro ejemplo de **hibridación de medios**, combinando elementos de la narrativa tradicional, los juegos de rol, la música y la animación en diferentes entregas que exploran su propio universo inmenso y lleno de aventuras. En Baldur's Gate encontramos una **narración de los hechos contada a través de diálogos, descripciones y escenas cinemáticas de gran nivel**, contando en su última entrega con más de 170 horas de cinemáticas y un guión de más de dos millones de palabras.
 
-Baldur's Gate es sin duda una **evolución** del medio del videojuego de rol que combina elementos de **juegos de mesa de rol** con elementos de videojuegos de acción, de exploración de mundo abierto y con recursos cinematográficos como el guión, diferentes tipos de planos o la música que crean una experiencia única o como afirma Manovich en su libro "El software toma el mando" : "[...]los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.".
+Baldur's Gate es sin duda una **evolución** del medio del videojuego de rol que combina elementos de **juegos de mesa de rol** con elementos de videojuegos de acción, de exploración de mundo abierto y con recursos cinematográficos como el guión, diferentes tipos de planos o la música que crean una experiencia única o como afirma Manovich en su libro "El software toma el mando" :
+> "[...]los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.".
 
 <div style="text-align: center;">
 <img src="https://www.rpgfan.com/wp-content/uploads/2020/06/Baldurs-Gate-III-Screenshot-106.webp" width="600" /></div>
 
-En cuanto a la **estrategia de hibridación**, Baldur's Gate ha evolucionado a lo largo de sus más de veinte años de historia añadiendo funcionalidades y evolucionando su jugabilidad para adaptarse a un mundo tan cambiante como es el de los videojuegos, en su última entrega ha sido capaz de combinar grandes hilos de contenido secundario con encuentros que innovan el sistema de combate por turnos, como reconoce el propio Mike Laidlaw (Yellow Brick Games, anteriormente director creativo de BioWare) : "[...]No estoy jugando activamente [D&D] quinta edición, pero esta interpretación de las reglas se siente sólida y me permite realizar algunas acrobacias geniales, mezclar saltos, etc. entrar en combate, eso hace que el espacio se sienta muy vivo"(https://www.pcgamer.com/, 2023).
+En cuanto a la **estrategia de hibridación**, Baldur's Gate ha evolucionado a lo largo de sus más de veinte años de historia añadiendo funcionalidades y evolucionando su jugabilidad para adaptarse a un mundo tan cambiante como es el de los videojuegos, en su última entrega ha sido capaz de combinar grandes hilos de contenido secundario con encuentros que innovan el sistema de combate por turnos, como reconoce el propio Mike Laidlaw (Yellow Brick Games, anteriormente director creativo de BioWare) :
+
+> "[...]No estoy jugando activamente [D&D] quinta edición, pero esta interpretación de las reglas se siente sólida y me permite realizar algunas acrobacias geniales, mezclar saltos, etc. entrar en combate, eso hace que el espacio se sienta muy vivo"(https://www.pcgamer.com/, 2023).
 
 Y es que aunque Baldur's Gate no ha creado un **nuevo lenguaje**, ni una nueva fomra de interaccionar con el medio de los videojuegos, si que ha encontrado en la hibridación la fórmula del éxito, siendo el mejor juego del año 2023 con una mecánica de jugabilidad donde impera lanzar los dados, como se hacía sobre el tablero del primer Dungeons & Dragons allá por 1974.
 
 <div style="text-align: center;">
 <img src="https://www.rpgfan.com/wp-content/uploads/2020/06/Baldurs-Gate-III-Screenshot-079.jpg" width="600" /></div>
-
-
-
-
-
 
 
 ### Referencias y Bibliografía
@@ -94,8 +95,7 @@ Y es que aunque Baldur's Gate no ha creado un **nuevo lenguaje**, ni una nueva f
 * <a href="https://www.vidaextra.com/rpg/esto-que-opinan-baldurs-gate-3-creadores-skyrim-fallout-dragon-age-origins">Esto es lo que opinan de Baldur's Gate 3 los creadores de Skyrim, Fallout o Dragon Age Origins</a> Vidaextra
 * <a href="https://www.pcgamer.com/a-triumph-brian-fargo-mike-laidlaw-and-other-rpg-architects-weigh-in-on-baldurs-gate-3/">Baldur's Gate 3</a> PCGamer
 
-
-
+### Imágenes
 
 * <a href="https://www.freepik.es/vector-gratis/ilustracion-concepto-estilo-vida-digital_17126800.htm#fromView=search&term=metamedio&track=ais&regularType=vector&page=1&position=3&uuid=20f8ec6e-44a4-475e-b454-8a52c7765b05">Imagen de storyset</a> en Freepik
 * <a href="https://www.quanticdream.com/en/media-view-all/heavy-rain-screenshots-703f56c092c16">Heavy Rain Media Gallery</a> en https://www.quanticdream.com/
