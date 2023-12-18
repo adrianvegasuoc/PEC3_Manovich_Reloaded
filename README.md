@@ -85,6 +85,8 @@ Y es que aunque Baldur's Gate no ha creado un **nuevo lenguaje**, ni una nueva f
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Muñoz-Justicia, Juan (2014): "Conocimiento Abierto y Tecnología".
+* McMillan, Robert (2012). "Lord of the Files: How GitHub Tamed Free Software (And More)".
 * <a href="https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios">Hibridación de medios</a> Wikipedia
 * <a href="https://medium.com/@mickeysant/qu%C3%A9-son-los-metamedios-4ca8e6b31df7">¿Qué son los metamedios?</a> Medium
 * <a href="https://makosedai.com/analisis-heavy-rain">Análisis: Heavy Rain</a> Makosedai
